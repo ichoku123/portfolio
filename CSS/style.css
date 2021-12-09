@@ -1,0 +1,62 @@
+body{
+    background-image:url(../img/REFLECTIONS.jpg);
+}
+
+.nav-bg{
+    background-color: #ffffff;
+    color: black;
+    
+}
+.cont-height{
+    height: 150px;
+}
+.head{
+    height: 60px;
+    background-color: black;
+    
+}
+
+.head h5{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    margin: 2px;
+}
+/* Header style */
+
+img{
+    float: right !important;
+    width: 134px;
+    margin-top: -7px;
+    
+}
+
+.h2{
+    margin-left: 30px;
+    
+}
+.background ul li{
+  text-decoration: underline;
+    font-size: 19px;
+}
+
+.row{
+    background-color: rgba(0, 0, 0, 0.9);
+    color: white;
+    margin: 2px;
+    font-size: 25px;
+}
+.skills ul li{
+    font-size: 25px;
+}
+
+.background ul li{
+    font-size: 25px;
+}
+
+
+h3{
+    text-align: center;
+    border: 3px solid #00e2ff;
+}
+
