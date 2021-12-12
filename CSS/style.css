@@ -60,3 +60,63 @@ h3{
     border: 3px solid #00e2ff;
 }
 
+
+@media screen and (max-width: 1199px) {
+ .row{
+   font-size: 20px;
+  }
+   .skills ul li{
+    font-size: 20px;
+}
+
+.background ul li{
+    font-size: 20px;
+} 
+}
+
+@media screen and (max-width: 530px) {
+   img{
+    
+    width: 100px;
+    
+    } 
+    .h2 h2{
+        font-size: 23px;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 530px) {
+    .cont-wrap{
+        margin-left: 1px !important;
+       display: flex;
+        flex-wrap: nowrap;
+        justify-content: center;
+        flex-direction: row;
+    }
+}
+@media screen and (max-width: 530px) {
+    img{
+        width: ;
+        margin-right: 0px;
+    }
+}
+@media screen and (max-width: 462px) {
+    #cont{
+    display: none;
+}
+    
+}
+@media screen and (max-width: 462px) {
+    #headdisplay{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        font-size: 24px;
+       
+        
+    }
+}
+.head-display{
+    display: none;
+}
